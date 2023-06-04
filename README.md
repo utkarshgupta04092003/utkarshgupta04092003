@@ -1,5 +1,6 @@
 # 💫 About Me:
-📖 I'm an MCA student at VIT Chennai and GSSOC 2023 contributor<br>🔭 I’m currently working on enhancing my skills in full-stack development<br>👯 I’m looking to collaborate on LinkedIn<br>🌱 I’m currently learning React<br>💬 Ask me about frontend technologies<br>
+
+💻I’m currently working as Teaching Assistant for Fullstack at Coding Ninjas<br>📖 I'm an MCA student at VIT Chennai and GSSOC 2023 contributor<br>🔭 I’m currently working on enhancing my skills in full-stack development<br>👯 I’m looking to collaborate on LinkedIn<br>🌱 I’m currently learning React<br>💬 Ask me about frontend technologies<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/utkarsh_official/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/utkarsh-gupta-9a49561a1) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Utkarsh-Gupta-1196) 
